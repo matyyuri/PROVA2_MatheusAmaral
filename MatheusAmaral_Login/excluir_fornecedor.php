@@ -102,6 +102,7 @@ $fornecedores = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </style>
 </head>
 <body>
+<h1>Aluno: Matheus Yuri do Amaral</h1>
     <h2>Excluir Fornecedor</h2>
 
     <?php if (!empty($fornecedores)): ?>

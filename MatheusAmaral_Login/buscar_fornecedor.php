@@ -152,6 +152,7 @@ $fornecedores = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </style>
 </head>
 <body>
+<h1>Aluno: Matheus Yuri do Amaral</h1>
     <h2>Lista de Fornecedores</h2>
 
     <!-- Formulário para buscar fornecedores -->

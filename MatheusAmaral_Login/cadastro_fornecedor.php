@@ -188,6 +188,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 </head>
 <body>
+<h1>Aluno: Matheus Yuri do Amaral</h1>
     <h2>Cadastrar Fornecedor</h2>
     <form action="cadastro_fornecedor.php" method="POST">
         <label for="nome_fornecedor">Nome:</label>

@@ -211,6 +211,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <script src="scripts.js"></script>
 </head>
 <body>
+<h1>Aluno: Matheus Yuri do Amaral</h1>
     <h2>Alterar Fornecedor</h2>
 
     <!-- Formulário de busca -->
